@@ -1,0 +1,3 @@
+- Se actualizo lineas de comentarios para especificar aun mas las funciones.
+- se añadio codigo que dara funcion de pararse y agacharse al robot asi como
+  tambien caminar.
